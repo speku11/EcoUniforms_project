@@ -1,0 +1,31 @@
+
+.fira-sans-thin {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+body {
+    margin: 0;
+    height: 100vh;
+    background: radial-gradient(#dfadd3, #dfadba, #dfb9ad, #dfd2ad);
+}
+.logo img{
+    width: 30%;
+    margin-left:35%;
+    margin-top: 5%
+}
+.titulos{
+    margin-top: 2%;
+    text-align: center;
+    font-family: Fira Sans;
+    
+
+}
+
+.titulos :hover{
+    margin-top: 2%;
+    text-align: center;
+    font-family: Fira Sans;
+    color: rgb(255, 255, 255);
+
+}

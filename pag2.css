@@ -1,0 +1,40 @@
+body {
+    color: white;
+    margin: 0;
+    height: 100vh;
+    background: radial-gradient( #dfadd3,#dfadba,#dfb9ad, #dfd2ad) ;
+}
+.titulo{
+    text-align: center;
+    margin-top: 2%;
+    color: white;
+}
+.titulo :hover{
+    text-align: center;
+    margin-top: 2%;
+    color: rgb(255, 161, 103);
+}
+
+.corazon{
+ 
+    color: rgb(255, 255, 255);
+    
+}
+.corazon{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    
+    background-color: transparent;
+    opacity: 0.5;
+}
+.texto{
+    position: absolute;
+    margin-top: 1%;
+    padding: 15%;
+    width: 50%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+}
